@@ -7,11 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FRIMindBoxTask1", "FRIMindB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FRIMindBoxTask1UnitTests", "..\FRIMindBoxTask1UnitTests\FRIMindBoxTask1UnitTests.csproj", "{0F389EAD-FBC3-4775-8E29-B68DF22389B4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{D4BD29E8-C97A-4969-89DF-051D965A692A}"
-	ProjectSection(SolutionItems) = preProject
-		Task2.sql = Task2.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
